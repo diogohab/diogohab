@@ -15,30 +15,30 @@ Gosto de aprender na prática, criar projetos pessoais e melhorar minhas habilid
 
 ## 💻 Tecnologias e Conhecimentos
 ### Linguagens de Programação
-C
-Java
-JavaScript
-SQL
-Kotlin
+C,
+Java,
+JavaScript,
+SQL,
+Kotlin,
 C#
 
 ### Desenvolvimento Web
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 
 ### Conceitos de TI
-Lógica de Programação
-Estruturas de Dados
-Banco de Dados
-Análise de Sistemas
+Lógica de Programação,
+Estruturas de Dados,
+Banco de Dados,
+Análise de Sistemas,
 Versionamento com Git
 
 ### Ferramentas
-Git & GitHub
-VSCode
-MySQL / SQL Server
-NoSQL
+Git & GitHub,
+VSCode,
+MySQL / SQL Server,
+NoSQL,
 .NET
 
 ---
