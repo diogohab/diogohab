@@ -19,6 +19,8 @@ C
 Java
 JavaScript
 SQL
+Kotlin
+C#
 
 ### Desenvolvimento Web
 HTML
@@ -27,15 +29,17 @@ JavaScript
 
 ### Conceitos de TI
 Lógica de Programação
-Estruturas de Dados (básico)
-Banco de Dados (básico)
-Análise de Sistemas (acadêmico)
+Estruturas de Dados
+Banco de Dados
+Análise de Sistemas
 Versionamento com Git
 
 ### Ferramentas
 Git & GitHub
 VSCode
-MySQL / SQL Server (básico)
+MySQL / SQL Server
+NoSQL
+.NET
 
 ---
 
